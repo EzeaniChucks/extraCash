@@ -1,6 +1,6 @@
 const InfoSection1 = () => {
   return (
-    <div className="flex flex-col items-center justify-center gap-5 w-full max-w-screen md:p-10 p-3 pt-[50px] md:pt-5">
+    <div className="flex flex-col items-center justify-center gap-5 w-full max-w-[700px] md:p-10 p-3 pt-[70px] md:pt-20">
       <div className="flex flex-col items-center justify-center text-gray-100 gap-5">
         <h3 className="text-4xl">Your benefits?</h3>
         <h3 className="w-[50px] h-1 bg-green-600 text-center rounded-xl"></h3>
