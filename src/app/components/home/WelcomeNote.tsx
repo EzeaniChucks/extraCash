@@ -13,7 +13,7 @@ const WelcomeNote = () => {
         <span className="flex flex-col gap-1 items-center md:items-start text-gray-200">
           <h3 className="text-sm">Manage your wealth.</h3>
           <h3 className="text-sm">
-            {"Earn 13% per week on your spare change"}
+            {"Earn 13% every Monday on your spare change"}
           </h3>
         </span>
         <GetAppBTN />
