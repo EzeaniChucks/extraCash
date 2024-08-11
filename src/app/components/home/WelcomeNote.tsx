@@ -8,11 +8,13 @@ const WelcomeNote = () => {
       <div className="flex flex-col gap-5 text-white max-w-[600px]">
         <span className="flex flex-col gap-2 items-center md:items-start">
           <h1 className="text-4xl">Welcome to</h1>
-          <h1 className="text-4xl">extraCash</h1>
+          <h1 className="text-4xl">extraMoneys</h1>
         </span>
         <span className="flex flex-col gap-1 items-center md:items-start">
           <h3 className="text-sm">Manage your wealth.</h3>
-          <h3 className="text-sm">{"Earn 3% per week on your spare change"}</h3>
+          <h3 className="text-sm">
+            {"Earn 13% per week on your spare change"}
+          </h3>
         </span>
         <GetAppBTN />
       </div>
