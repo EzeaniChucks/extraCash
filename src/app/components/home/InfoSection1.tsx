@@ -1,11 +1,11 @@
 const InfoSection1 = () => {
   return (
     <div className="flex flex-col items-center justify-center gap-5 w-full max-w-screen md:p-10 p-3 pt-[50px] md:pt-5">
-      <div className="flex flex-col items-center justify-center text-white gap-5">
+      <div className="flex flex-col items-center justify-center text-gray-100 gap-5">
         <h3 className="text-4xl">Your benefits?</h3>
         <h3 className="w-[50px] h-1 bg-green-600 text-center rounded-xl"></h3>
       </div>
-      <div className="flex flex-col items-center justify-center text-gray-50 gap-5 w-full bg-white/10 p-5 rounded-xl">
+      <div className="flex flex-col items-center justify-center text-gray-200 gap-5 text-sm md:text-md w-full bg-white/10 p-5 rounded-xl">
         <h3 className="text-center">
           {
             "Earn to up 13% guaranteed interest every week (or 52% every month) on your investment."

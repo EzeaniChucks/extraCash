@@ -1,11 +1,11 @@
 const InfoSection2 = () => {
   return (
     <div className="flex flex-col items-center justify-center gap-5 w-full max-w-screen md:p-10 p-3 mt-[100px]">
-      <div className="flex flex-col items-center justify-center text-white gap-5">
+      <div className="flex flex-col items-center justify-center text-gray-100 gap-5">
         <h3 className="text-4xl text-center">How safe is your money?</h3>
         <h3 className="w-[50px] h-1 bg-green-600 text-center rounded-xl"></h3>
       </div>
-      <div className="flex flex-col items-center justify-center text-gray-50 gap-5 w-full bg-white/10 p-5 rounded-xl">
+      <div className="flex flex-col items-center justify-center text-gray-200 gap-5 text-sm md:text-md w-full bg-white/10 p-5 rounded-xl">
         <h3 className="text-center">
           {"Your money is completely safe and withdrawable per week"}
         </h3>
