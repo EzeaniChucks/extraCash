@@ -9,14 +9,14 @@ const Footer = () => {
         <h3 className="text-green-500 font-bold text-md md:text-3xl">
           ExtraMonies
         </h3>
-        <h3 className="text-white">{new Date().getFullYear()}</h3>
+        <h3 className="text-white text-xs">{`2023 - ${new Date().getFullYear()}`}</h3>
       </div>
       <div className="flex flex-row items-center gap-5 text-xs">
-        <div className="flex items-center justify-center gap-2">
+        <div className="flex items-start justify-center gap-1">
           <FcPhone className="text-green-600" />
           <h3 className="text-green-600">9069687585</h3>
         </div>
-        <div className="flex items-center justify-center gap-2">
+        <div className="flex items-start justify-center gap-1">
           <FaWhatsapp className="text-green-600" />
           <h3 className="text-green-600">9069687875</h3>
         </div>

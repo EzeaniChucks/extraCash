@@ -23,7 +23,7 @@ const WelcomeNote = () => {
         alt="welcome.png"
         width={600}
         height={600}
-        className="w-[400px] h-[400px]"
+        className="w-[400px] h-[400px] rounded-full"
       />
     </div>
   );
