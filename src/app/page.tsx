@@ -7,8 +7,7 @@ import GetAppBTN from "./components/home/getAppBtn";
 
 export default function Home() {
   return (
-    <main className="relative flex min-h-screen max-w-screen flex-col items-center justify-between p-3 md:p-10 bg-black">
-      <NavBar />
+    <main className="relative flex flex-col items-center justify-between min-h-screen max-w-screen p-3 md:p-10">
       <WelcomeNote />
       <InfoSection1 />
       <GetAppBTN />

@@ -1,6 +1,6 @@
 const NavBar = () => {
   return (
-    <div className="flex fixed items-center justify-between top-0 right-0 left-0 md:gap-10 gap-5 max-w-screen md:p-10 p-5 py-5 bg-black/80">
+    <div className="flex fixed items-center justify-between top-0 right-0 left-0 md:gap-10 gap-5 max-w-screen md:p-10 p-5 py-5 bg-black/80 z-10">
       <h3 className="text-green-500 font-bold text-2xl md:text-3xl">
         ExtraMonies
       </h3>
