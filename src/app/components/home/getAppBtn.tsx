@@ -4,7 +4,8 @@ const GetAppBTN = () => {
   return (
     <div className="flex mt-10 justify-center md:justify-start text-white">
       <a
-        href="https://drive.google.com/file/d/1eqDBE0dyht8m3fUJDHATGW1zFrBrboxw/view?usp=sharing"
+        // href="https://drive.google.com/file/d/1eqDBE0dyht8m3fUJDHATGW1zFrBrboxw/view?usp=sharing"
+        href="https://drive.google.com/file/d/1tGexL8LUOVud_g38ccKC-tMMDwFcDS2l/view?usp=sharing"
         download
         target="_blank"
       >
