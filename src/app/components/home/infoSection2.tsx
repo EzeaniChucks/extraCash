@@ -10,13 +10,15 @@ const InfoSection2 = () => {
           {"Your money is completely safe and withdrawable per week"}
         </h3>
         <h3 className="text-center">
-          ExtraMoneys pools funds from investors and puts it into low yield, low
-          risk short-term financial instruments. Our aim is build funds, support
-          local businesses and individuals by giving out loans and return the
-          ROI to our clients
+          {`ExtraCash pools funds from investors and put them into low yield, low
+          risk short-term financial instruments. Our aim is to build and gather funds, support
+          local businesses and individuals by giving out loans, take advantage of the opportunities like government bonds and return the
+          ROI to our clients`}
         </h3>
-        <h4 className="text-center">Well they can quickly add up!</h4>
-        <h4 className="text-center">At extraCash, you want to help you </h4>
+        <h4 className="text-center">{"Join the smart money makers!"}</h4>
+        <h4 className="text-center">
+          {"Make your cash work for you. Get the app below right now."}{" "}
+        </h4>
       </div>
     </div>
   );

@@ -18,7 +18,7 @@ const InfoSection1 = () => {
         </h3>
         <h3 className="text-center">
           {
-            "Unlike other investment platforms where you can lose your money, at extraCash, we manage your wealth from decades of experience working with and investing in financial instruments. We encourage you to invest your spare change. Instead of thrwoing it on a vanity item, you can make your money work for you instead"
+            "Unlike other investment platforms where you can lose your money, at extraCash, we manage your wealth from decades of experience working with and investing in financial instruments. We encourage you to invest your spare change. Instead of throwing it on a vanity item, you can make your money work for you instead."
           }
         </h3>
         <h3 className="text-center">
