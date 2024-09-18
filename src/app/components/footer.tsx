@@ -13,11 +13,11 @@ const Footer = () => {
       </div>
       <div className="flex flex-row items-center gap-5 text-xs">
         <div className="flex items-start justify-center gap-1">
-          <FcPhone className="text-green-600" />
+          <FaWhatsapp className="text-green-600" />
           <h3 className="text-green-600">08067288692</h3>
         </div>
         <div className="flex items-start justify-center gap-1">
-          <FaWhatsapp className="text-green-600" />
+          <FcPhone className="text-green-600" />
           <h3 className="text-green-600">09021347323</h3>
         </div>
       </div>
